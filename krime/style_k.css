@@ -1,0 +1,29 @@
+body{
+	background-image:url(https://www.tokkoro.com/picsup/5493323-sherlock-wallpapers.jpg);
+}
+.heado{
+	margin:0 auto;
+	text-align:center;
+	background-color:#0000FF;
+	height:240px;
+	line-height:15px;
+	width:1000px;
+	
+	
+}
+.headlinks{
+	color:#FFFFFF;
+	padding:40px;
+}
+.foot{
+	width:1000px;
+	background-color:white;
+	text-align:center;
+	margin:0 auto;
+	
+}
+.osnova{
+	background-color:white;
+	margin:0 auto;
+	width:1000px;
+}
